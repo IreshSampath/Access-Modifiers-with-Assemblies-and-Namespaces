@@ -1,0 +1,15 @@
+C:\Users\Iresh.DESKTOP-TMD7SIJ\Desktop\Access Modifier Test\Assembly2\obj\Debug\Assembly2.csproj.AssemblyReference.cache
+C:\Users\Iresh.DESKTOP-TMD7SIJ\Desktop\Access Modifier Test\Assembly2\obj\Debug\Assembly2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iresh.DESKTOP-TMD7SIJ\Desktop\Access Modifier Test\Assembly2\obj\Debug\Assembly2.csproj.CoreCompileInputs.cache
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\bin\Debug\Assembly2.exe.config
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\bin\Debug\Assembly2.exe
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\bin\Debug\Assembly2.pdb
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\bin\Debug\Assembly1.exe
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\bin\Debug\Assembly1.pdb
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\bin\Debug\Assembly1.exe.config
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\obj\Debug\Assembly2.csproj.AssemblyReference.cache
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\obj\Debug\Assembly2.csproj.SuggestedBindingRedirects.cache
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\obj\Debug\Assembly2.csproj.CoreCompileInputs.cache
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\obj\Debug\Assembly2.csproj.CopyComplete
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\obj\Debug\Assembly2.exe
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly2\obj\Debug\Assembly2.pdb
