@@ -2,7 +2,8 @@
 <h2>Understanding the Access Modifiers with Assemblies and Namespaces in C#</h2>
 
 <h4>1) Class structure</h4>
-The class structure of the Code and the Chart<br>
+<h6>The class structure of the Code and the Chart<br></h6>
+
 <p>
 &nbsp;-Assembly1<br>
 &nbsp;&nbsp;&nbsp;-SampleClass<br>
@@ -15,7 +16,8 @@ The class structure of the Code and the Chart<br>
 </p>
 
 <h4>2) Refference image</h4>
-Accessibility Chart of the Access Modifiers
+<h6>Accessibility Chart of the Access Modifiers<br></h6>
+
   
 ![Screenshot](AccessibilityChart.png)
 
