@@ -19,3 +19,11 @@ D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Te
 D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly1\bin\Debug\Assembly1.pdb
 D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly1\obj\Debug\Assembly1.exe
 D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access Modifiers Test\Assembly1\obj\Debug\Assembly1.pdb
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\bin\Debug\Assembly1.exe.config
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\bin\Debug\Assembly1.exe
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\bin\Debug\Assembly1.pdb
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\obj\Debug\Assembly1.csproj.AssemblyReference.cache
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\obj\Debug\Assembly1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\obj\Debug\Assembly1.csproj.CoreCompileInputs.cache
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\obj\Debug\Assembly1.exe
+D:\Projects\To Git\c# and OOP Projects\Access Modifiers Test\Access-Modifiers-with-Assemblies-and-Namespaces - Copy\Assembly1\obj\Debug\Assembly1.pdb
